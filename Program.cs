@@ -10,6 +10,7 @@ namespace ConsoleApp1_test
     {
         static void Main(string[] args)
         {
+            Hello("world")
         }
     }
 }
